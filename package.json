@@ -1,0 +1,31 @@
+{
+  "name": "rbq_ts_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renbingqi-coder/rbq_ts_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renbingqi-coder/rbq_ts_study/issues"
+  },
+  "homepage": "https://github.com/renbingqi-coder/rbq_ts_study#readme",
+  "dependencies": {
+    "eslint": "^8.53.0"
+  },
+  "devDependencies": {
+    "@webpack-cli/generators": "^3.0.7",
+    "prettier": "^3.1.0",
+    "ts-loader": "^9.5.0",
+    "typescript": "^5.2.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}

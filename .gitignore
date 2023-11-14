@@ -1,0 +1,13 @@
+# Mac OS
+.DS_Store
+
+# node
+*.log
+node_modules
+
+# IDE
+.vscode
+.idea
+
+# build
+dist
