@@ -5,8 +5,9 @@
     "module": "CommonJS",
     "target": "es5",
     "allowJs": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "experimentalDecorators": true,
   },
-  "files": ["src/index.ts"],
-  "include": ["src/***/*"]
+  "files": ["src/index.ts"], // 
+  "include": ["src/**/*"] // 编辑包含的文件
 }

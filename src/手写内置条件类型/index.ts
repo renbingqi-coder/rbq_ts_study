@@ -13,6 +13,10 @@ type B1 = Eq<'my' | 'me', 'my'>  // 'boolean
 type B2 = Eq<'me' | 'me', string>  // 'true'
 type B3 = Eq<'my' | 'me', string>  // 'false'
 
+// 
+
+
+
 
 
 
